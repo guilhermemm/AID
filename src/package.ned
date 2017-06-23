@@ -1,0 +1,3 @@
+package aid;
+
+@license(LGPL);
